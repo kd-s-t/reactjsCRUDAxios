@@ -28,6 +28,6 @@ npm run
 ## Delete  
 <img src="assets/img/delete.png" width="30%">   
 
-You might this. You'll know when you run the app.  
+You might need this. You'll know when you run the app.  
 [JSON Formatter](https://jsonformatter.curiousconcept.com/)  
 
